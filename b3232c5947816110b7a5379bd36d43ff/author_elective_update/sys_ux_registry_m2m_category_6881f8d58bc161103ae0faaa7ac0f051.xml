@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">2081f8d569c16110fa5b6fb4c906e650</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 05:56:54</sys_created_on>
+        <sys_id>6881f8d58bc161103ae0faaa7ac0f051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_6881f8d58bc161103ae0faaa7ac0f051</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-15 05:56:54</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">b3232c5947816110b7a5379bd36d43ff</application>
+        <file_path/>
+        <instance_id>ddcea3fcdb4d2594387021c4059619b7</instance_id>
+        <instance_name>dev148575</instance_name>
+        <name>sys_ux_registry_m2m_category_6881f8d58bc161103ae0faaa7ac0f051</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">2081f8d569c16110fa5b6fb4c906e650</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-15 05:56:54</sys_created_on><sys_id>6881f8d58bc161103ae0faaa7ac0f051</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package><sys_policy/><sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope><sys_update_name>sys_ux_registry_m2m_category_6881f8d58bc161103ae0faaa7ac0f051</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-15 05:56:54</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>-625299776</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a403f7b047012110b7a5379bd36d436a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-14 06:45:19</sys_created_on>
+        <sys_id>c4c3f49947c16110b7a5379bd36d43e4</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1864eabac180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>84c3f499c4c16110e2512832198423e4</update_guid>
+        <update_guid_history>84c3f499c4c16110e2512832198423e4:-625299776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 06:06:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>1facb02917ff44d094c59681a7a77290</sys_id>
+        <sys_metadata>6881f8d58bc161103ae0faaa7ac0f051</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_scope_delete display_value="">06993b7e5000421a87a08c203591fcc4</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_6881f8d58bc161103ae0faaa7ac0f051</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_6881f8d58bc161103ae0faaa7ac0f051">c4c3f49947c16110b7a5379bd36d43e4</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for To Do Workspace</description>
+        <genius_result_assembly/>
+        <label>To Do Workspace search profile</label>
+        <name>x_464615_to_do_tcxmu_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 06:07:44</sys_created_on>
+        <sys_id>ebf33c99ccc161104731d54fd68d7b76</sys_id>
+        <sys_name>To Do Workspace search profile</sys_name>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_update_name>ais_search_profile_ebf33c99ccc161104731d54fd68d7b76</sys_update_name>
+    </ais_search_profile>
+</record_update>
