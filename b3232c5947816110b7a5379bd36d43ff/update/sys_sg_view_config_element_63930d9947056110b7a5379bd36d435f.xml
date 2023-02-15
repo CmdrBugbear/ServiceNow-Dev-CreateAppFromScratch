@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>to_do_item-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 07:16:00</sys_created_on>
+        <sys_id>63930d9947056110b7a5379bd36d435f</sys_id>
+        <sys_name>to_do_item-FieldLabel</sys_name>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_63930d9947056110b7a5379bd36d435f</sys_update_name>
+        <view_config display_value="My To Dos Detail Screen View Config">e7930d9947056110b7a5379bd36d433e</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
