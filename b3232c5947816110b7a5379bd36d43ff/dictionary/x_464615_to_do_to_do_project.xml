@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a404689947816110b7a5379bd36d435b" label="To Do Project" max_length="40" name="x_464615_to_do_to_do_project" type="collection">
+    <element db_object_id="a404689947816110b7a5379bd36d435b" label="To Do Project" max_length="40" name="x_464615_to_do_to_do_project" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Project" max_length="40" name="project" type="string"/>
     </element>
 </database>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>e881f8d56bc16110c2e0a577fdf33755</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>to-do-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 05:56:53</sys_created_on>
+        <sys_id>2081f8d569c16110fa5b6fb4c906e650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace</sys_name>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_update_name>sys_ux_page_registry_2081f8d569c16110fa5b6fb4c906e650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-15 05:56:53</sys_updated_on>
+        <title>To Do Workspace</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">b3232c5947816110b7a5379bd36d43ff</application>
+        <file_path/>
+        <instance_id>ddcea3fcdb4d2594387021c4059619b7</instance_id>
+        <instance_name>dev148575</instance_name>
+        <name>sys_ux_page_registry_2081f8d569c16110fa5b6fb4c906e650</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>e881f8d56bc16110c2e0a577fdf33755</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>to-do-workspace</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-15 05:56:53</sys_created_on><sys_id>2081f8d569c16110fa5b6fb4c906e650</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do Workspace</sys_name><sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package><sys_policy/><sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope><sys_update_name>sys_ux_page_registry_2081f8d569c16110fa5b6fb4c906e650</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-15 05:56:53</sys_updated_on><title>To Do Workspace</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1842821813</payload_hash>
+        <record_name>To Do Workspace</record_name>
+        <reverted_from/>
+        <source>a403f7b047012110b7a5379bd36d436a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-14 06:45:19</sys_created_on>
+        <sys_id>84c33c1947c16110b7a5379bd36d4378</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1864eabac180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>44c33c191dc16110dbdc5e851e318f78</update_guid>
+        <update_guid_history>44c33c191dc16110dbdc5e851e318f78:1842821813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 06:06:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>30006d6f0af74cf096d7d9dec0dc5371</sys_id>
+        <sys_metadata>2081f8d569c16110fa5b6fb4c906e650</sys_metadata>
+        <sys_name>To Do Workspace</sys_name>
+        <sys_package display_value="To Do" source="x_464615_to_do">b3232c5947816110b7a5379bd36d43ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">b3232c5947816110b7a5379bd36d43ff</sys_scope>
+        <sys_scope_delete display_value="">06993b7e5000421a87a08c203591fcc4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_2081f8d569c16110fa5b6fb4c906e650</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_2081f8d569c16110fa5b6fb4c906e650">84c33c1947c16110b7a5379bd36d4378</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
